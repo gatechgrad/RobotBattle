@@ -1,0 +1,6 @@
+cp splash.c ~/webpage/bb/
+cp select.c ~/webpage/bb/
+cp arena.c ~/webpage/bb/
+cp Makefile ~/webpage/bb/
+cp *.bmp ~/webpage/bb/
+cp load_image.c ~/webpage/bb/
